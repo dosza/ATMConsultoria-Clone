@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ATM Consultoria</string>
+    <string name="nav_header_subtitle">atendimento@atmconsultoria.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="servicos_titulo">Sistema de gestão de qualidade</string>
+
+    <string name="servicos_descricao">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Suspendisse eu nunc quis dolor commodo commodo gravida congue augue.
+        Quisque non ligula porta, posuere neque at, posuere leo.
+        Nunc sed eros in quam congue mollis in a sem. Aenean sit amet urna id turpis suscipit molestie.
+        Donec aliquam, mauris at commodo feugiat, neque elit consectetur neque, quis tempor elit eros a nulla.
+        Nunc enim nisi, cursus vel enim eget, eleifend vehicula leo.
+        Etiam rutrum vitae libero eu ultricies. Curabitur ultrices magna at ligula blandit mollis
+    </string>
+
+    <string name="servicos_indicadores">Indicadores de Desempenho</string>
+
+    <string name="clientes_descricao">Em mais de 15 anos de existencia a  ATM acumula experiência em serviços de consultoria para empresas nacionais e multinacionais de diversos portes,
+	tendo atendido mais de 1000 empresas desde sua abertura.
+    </string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
