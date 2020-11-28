@@ -17,6 +17,6 @@ Screenshots
 ====
 
 <p float="left" align="middle">
-	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png" width="50%" />
-	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173659.png" width="50%" />
+	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png" width="40%" height="40%" />
+	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173659.png" width="40%" height="40%">
 </p>
