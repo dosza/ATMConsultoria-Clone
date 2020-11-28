@@ -18,7 +18,7 @@ Screenshots
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 <p align="center">
 	<ul class="images">
-		<li><a href="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png"/></li>
-		<li><a href="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173659.png"/></li>
+		<li><img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png"/></li>
+		<li><img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173659.png"/></li>
 	</ul>
 </p>
