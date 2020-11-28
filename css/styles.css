@@ -1,4 +1,7 @@
 .images li {
-    display: inline-block;
+    display: inline;
     margin:4px;
 }
+
+
+

@@ -14,8 +14,9 @@ Um aplicativo para uma empresa de Consultoria ficticia feito com base no  Curso 
 
 Screenshots
 ====
-
-<link rel="stylesheet" type="text/css" href="css/styles.css">
+<head>
+	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master//css/styles.css">
+</head>
 <p align="center">
 	<ul class="images">
 		<li><img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png"/></li>
