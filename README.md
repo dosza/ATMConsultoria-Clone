@@ -1,3 +1,5 @@
+(setq markdown-css-paths `("https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/css/styles.css"))
+
 <p align=center className="logo">
   <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/app/src/main/res/drawable/logo.png"
   />
@@ -16,7 +18,7 @@ Screenshots
 ====
 <head>
 	<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master//css/styles.css">
-</head>
+
 <p align="center">
 	<ul class="images">
 		<li><img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png"/></li>
