@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/css/styles.css">
 
 <p align=center className="logo">
   <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/app/src/main/res/drawable/logo.png"
@@ -17,7 +16,7 @@ Um aplicativo para uma empresa de Consultoria ficticia feito com base no  Curso 
 Screenshots
 ====
 
-<p float="left" align="center">
+<p float="left">
 	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173648.png"/>
 	<img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/screenshots/Screenshot_20200929-173659.png"/>
 </p>
