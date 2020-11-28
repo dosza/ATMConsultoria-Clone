@@ -1,7 +1,10 @@
+
 li {
     display: inline-block;
     margin:10px;
 }
 
-
-
+img {
+    width:50%;
+    height:1px;
+}
