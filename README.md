@@ -1,6 +1,6 @@
 
 <p align=center className="logo">
-  <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/app/src/main/res/drawable/logo.png"
+  <img src="https://raw.githubusercontent.com/DanielOliveiraSouza/ATMConsultoria-Clone/master/app/src/main/res/drawable/logo-transparente.png"
   />
 </p>
 
