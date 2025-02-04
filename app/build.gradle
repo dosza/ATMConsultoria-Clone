@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 34
+    namespace 'com.cursoandroid.atmconsultoria'
     defaultConfig {
         applicationId "com.cursoandroid.atmconsultoria"
-        minSdkVersion 15
-        targetSdkVersion 29
+        minSdkVersion 24
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -30,7 +30,7 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 
     //biblioteca aboutPage
-    implementation 'com.github.medyo:android-about-page:1.2.6'
+    implementation 'io.github.medyo:android-about-page:2.0.0'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
